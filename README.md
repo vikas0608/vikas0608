@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vikas
-- 👀 I’m interested in Developing Automation Framework from scratch
+- 👀 I’m interested in Developing Test Automation Framework from scratch using POM design pattern
 - 🌱 I’m currently learning BDD Framework using Cucumber, Webservices Testing using POSTMAN and APPIUM.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
